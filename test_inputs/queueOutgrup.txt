@@ -1,0 +1,30 @@
+After calculateDistance:
+Total distance=41171
+After distinctElements:
+Total distinct element=25
+After removeGreater 54:
+1 4 5 7 12 3 5 43 21 34 11 3 2 1 23 48 12 45 12 45 23 23 54 23 12 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After addOrRemove -13:
+1 23 48 12 45 12 45 23 23 54 23 12 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After reverse 12:
+12 23 54 23 23 45 12 45 12 48 23 1 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After reverse 10:
+48 12 45 12 45 23 23 54 23 12 23 1 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After reverse 8:
+54 23 23 45 12 45 12 48 23 12 23 1 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After reverse 6:
+45 12 45 23 23 54 12 48 23 12 23 1 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After reverse 4:
+23 45 12 45 23 54 12 48 23 12 23 1 44 1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After addOrRemove -13:
+1 3 4 5 7 9 12 43 21 34 11 3 2 1 23
+After addOrRemove 12:
+1 3 4 5 7 9 12 43 21 34 11 3 2 1 23 40 43 10 13 40 48 38 40 37 39 31 37
+After reverse 4:
+5 4 3 1 7 9 12 43 21 34 11 3 2 1 23 40 43 10 13 40 48 38 40 37 39 31 37
+After sortElements:
+1 1 2 3 3 4 5 7 9 10 11 12 13 21 23 31 34 37 37 38 39 40 40 40 43 43 48
+After calculateDistance:
+Total distance=6692
+After distinctElements:
+Total distinct element=21

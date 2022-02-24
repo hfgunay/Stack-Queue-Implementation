@@ -1,0 +1,30 @@
+Q calculateDistance
+S calculateDistance
+Q distinctElements
+S distinctElements
+Q removeGreater 54
+S removeGreater 38
+Q addOrRemove -13
+S addOrRemove -9
+S reverse 12
+S reverse 10
+S reverse 8
+S reverse 6
+S reverse 4
+Q reverse 12
+Q reverse 10
+Q reverse 8
+Q reverse 6
+Q reverse 4
+Q addOrRemove -13
+S addOrRemove -9
+Q addOrRemove 12
+S addOrRemove 12
+Q reverse 4
+S reverse 4
+S sortElements
+Q sortElements
+Q calculateDistance
+S calculateDistance
+Q distinctElements
+S distinctElements
